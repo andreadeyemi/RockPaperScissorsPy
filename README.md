@@ -18,10 +18,20 @@ cd RockPaperScissorsPy
 To play the game, navigate to the repository directory and run:
 
 ```bash
-python rock_paper_scissors.py
+python game.py
 ```
 
 Follow the on-screen prompts to choose your weapon: Rock, Paper, or Scissors. The computer will then make its choice, and the winner of the round will be announced.
+
+## How to Play
+
+- After starting the game, you will be prompted to enter your choice.
+- Type 'R' for Rock, 'P' for Paper, or 'S' for Scissors and then press Enter.
+- The computer will randomly choose its weapon.
+- The game will compare your choice with the computer's and declare a winner.
+- Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock.
+- If both you and the computer choose the same weapon, it's a tie.
+- After each round, you can choose to play again or exit the game.
 
 ## Contributing
 
@@ -30,3 +40,4 @@ Your contributions are welcome! If you have suggestions for improvements or enco
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file in the repository for the full text.
+
