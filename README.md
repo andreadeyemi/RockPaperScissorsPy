@@ -24,6 +24,7 @@ python game.py
 Follow the on-screen prompts to choose your weapon: Rock, Paper, or Scissors. The computer will then make its choice, and the winner of the round will be announced.
 
 ## How to Play
+![Screenshot 2024-02-02 at 8 18 29 PM](https://github.com/andreadeyemi/RockPaperScissorsPy/assets/119077913/ecfb46aa-2d98-47b6-971f-b6e3dbdbc5f6)
 
 - After starting the game, you will be prompted to enter your choice.
 - Type 'R' for Rock, 'P' for Paper, or 'S' for Scissors and then press Enter.
